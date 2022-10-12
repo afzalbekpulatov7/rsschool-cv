@@ -1,2 +1,1 @@
-CV. Markdown & Git 
-https://afzalbekpulatov7.github.io/rsschool-cv/cv
+# HTML, CSS & Git Basics [CV](https://afzalbekpulatov7.github.io/rsschool-cv/)
